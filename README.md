@@ -1,6 +1,6 @@
 # Alwin Solanky
 
-Former gatekeeper turned poacher, with a 15 year background in Business Analysis, QA and testing. I was under the false impression it was better to destroy than create.  Having seen the light I so want to start developing again, as it's a true passion of mine, to reboot as junior developer, the seedling has taken root, just needs to be nurtured to become a mighty.  My background in Science and Software Engineering has given me a great perspective on how to test and hence the need for great clean test-driven code.  More than five years experience in Agile, from setting up agile as a greenfield project to acting as Scrum Master
+Former gatekeeper turned poacher, with a 15 year background in Business Analysis, QA and testing. I was under the false impression it was better to destroy than create.  Having seen the light I so want to start developing again. This is true passion of mine to reboot as junior developer, the seedling has taken root, just needs to be nurtured to become a mighty developer.  My background in Science and Software Engineering has given me a great perspective on how to test and hence the need for great clean test-driven code.  More than five years experience in Agile, from setting up agile as a greenfield project to acting as Scrum Master
 
 ## Skills
 
