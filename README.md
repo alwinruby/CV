@@ -5,10 +5,13 @@ Former gatekeeper turned poacher, with a 15 year background in Business Analysis
 ## Skills
 
 #### Communication and Presentation
-  Have made presentations at team at IDBS, Fourth, Macat and FTA focusing on new technologies learned or for adoption. At board level, at IVIS and Macat, to showcase new working practices.  Along with potential clients whilst at Atos Origin to highlight the advantages of selecting the company.
+  * Presentations to teams at IDBS, Fourth, Macat and FTA with a focus on new technologies learned or for adoption.
+  * Board level, at IVIS and Macat, to showcase new working practices.  
+  * Potential clients whilst at Atos Origin to highlight the advantages of selecting the company.
 
 #### Mentoring
-  Helped new graduates acclimatise to corporate company culture at Atos Origin. At Makers Academy enjoyed mentoring other team members in practices which I was more familiar with.
+  * Helped new graduates acclimatise to corporate company culture at Atos Origin.
+  * At Makers Academy enjoyed mentoring other team members in practices which I was more familiar with.
 
 #### Attention to detail
   With a background in Science and Testing attention to detail is paramount to what is required in the tasks that I'm involved in throughout my career.  This has involved setting up a new Testing Team at Capscan and expanding teams at IVIS, and Nlyte Software.
