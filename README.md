@@ -1,6 +1,6 @@
 # Alwin Solanky
 
-Former gatekeeper turned poacher, with a 15 year background in Business Analysis, QA and testing. I was under the false impression it was better to destroy than create.  Having seen the light I so want to start developing again. This is true passion of mine to reboot as junior developer, the seedling has taken root, just needs to be nurtured to become a mighty developer.  My background in Science and Software Engineering has given me a great perspective on how to test and hence the need for great clean test-driven code.  More than five years experience in Agile, from setting up agile as a greenfield project to acting as Scrum Master
+Former gatekeeper turned poacher, with a 15 year background in Business Analysis, QA and testing. I was under the false impression it was better to destroy than create.  Having seen the light I so want to start developing again. This is a true passion of mine to reboot as junior developer, the seedling has taken root, it just needs to be nurtured to become a mighty developer. My background in Science and Software Engineering has given me a great perspective on how to test and hence the need for clean, test-driven code. I have more than five years experience in Agile, from setting up agile as a greenfield project to acting as Scrum Master
 
 ## Skills
 
@@ -14,13 +14,15 @@ Former gatekeeper turned poacher, with a 15 year background in Business Analysis
   * At Makers Academy enjoyed mentoring other team members in practices which I was more familiar with.
 
 #### Attention to detail
-  With a background in Science and Testing attention to detail is paramount to what is required in the tasks that I'm involved in throughout my career.  This has involved setting up a new Testing Team at Capscan and expanding teams at IVIS, and Nlyte Software.
+  * With a background in Science and Testing attention to detail is paramount to what is required in the tasks that I'm involved in throughout my career.  
+  * Involving setting up a new Testing Team at Capscan and expanding teams at IVIS, and Nlyte Software.
 
 #### Testing
-  Having tested software for more than a decade it was great to apply this knowledge to TDD as a developer and understand from two different perspectives.
+  * Having tested software for more than a decade it was great to apply this knowledge to TDD as a developer and understand from two different perspectives.
 
 #### Willing to get involved
-  Always happy to stretch myself as I believe that it is only outside your comfort zone that true growth happens.  I have stepped up to lead teams and to set new delivery goals whilst at IDBS, Atos Origin and Macat.
+  * Always happy to stretch myself as I believe that it is only outside your comfort zone that true growth happens.  
+  * I have stepped up to lead teams and to set new delivery goals whilst at IDBS, Atos Origin and Macat.
 
 #### Technical Skills
 
@@ -66,7 +68,7 @@ From 2000 to Early 2016 have worked in various positions as a Tester, Business A
 
 * Symbian
 * Capscan
-* Civil Service, Home Office, Cabinet Office and Ministry of Defence
+* Civil Service, Home Office, Cabinet Office.
 * Atos Origin
 * IVIS group
 * IDBS
