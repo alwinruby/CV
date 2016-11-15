@@ -77,7 +77,6 @@ From 2000 to Early 2016 have worked in various positions as a Tester, Business A
 * Macat
 * FTA
 
-My linkedin profile before career change may be accessed [here](https://www.linkedin.com/profile/edit?locale=en_US)
 
 ## Interests
 
