@@ -48,6 +48,7 @@ OOP, SOLID, TDD(properly) , MVC, MVP
 | Pong | A remake of the classic Arcade game of the 1970s| HTML 5, JavaScript| [github](https://github.com/alwinruby/Pong)|
 |JabbyChat| Final Makers project to create a clone of whatsapp in mobile iOS and as a web client| XMPP, Swift, JavaScript, JQuery, eJabbard| [github](https://github.com/WhatsApe)|
 |Pinder|Second makers project to build a dating app for matching people through pets |Ruby-on-Rails, postgreSQL |[github](https://github.com/alwinruby/pinder)|
+|Tumblr|A basic version of the popular blogging site |Ruby-on-Rails |[github](https://github.com/alwinruby/RailsProjects/tree/master/TumblrApp)|
 
 
 ## Education
