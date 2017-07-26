@@ -1,6 +1,6 @@
 # Alwin Solanky
 
-Former gatekeeper turned poacher, with a 15 year background in Business Analysis, QA and testing. I was under the false impression it was better to destroy than create.  Having seen the light I so want to start developing again. This is a true passion of mine with the bravery to reboot as junior developer, the seedling has taken root, it just needs to be nurtured to become a mighty developer. My background in Science and Software Engineering has given me a great perspective on how to test and hence the need for clean, test-driven code. I have more than five years experience in Agile, from setting up as a greenfield project to acting as Scrum Master
+Former gatekeeper turned poacher, with a 15 year background in Business Analysis, QA and testing. I was under the false impression it was better to destroy than create.  Having seen the light I so want to start developing again. This is a true passion of mine with the bravery to reboot as junior developer, the seedling has taken root, it just needs to be nurtured to become a mighty developer. My background in Science and Software Engineering has given me a great perspective on how to test and hence the need for clean, test-driven code. I have more than five years experience in Agile, from setting up as a greenfield project to acting as Scrum Master.  Currently expanding my technical skills by volunteering for the charity Chatterbox
 
 ## Skills
 
@@ -21,6 +21,7 @@ Former gatekeeper turned poacher, with a 15 year background in Business Analysis
   * Having tested software for more than a decade it was great to apply this knowledge to TDD as a developer and understand from two different perspectives.
 
 #### Willing to get involved
+  * Since leaving Makers I have got involved with the charity  wearechatterbox.org where all of the technical staff are volunteers, and I'm really enjoying learning and making a difference
   * Always happy to stretch myself as I believe that it is only outside your comfort zone that true growth happens.  
   * I have stepped up to lead teams and to set new delivery goals whilst at IDBS, Atos Origin and Macat.
 
@@ -50,9 +51,13 @@ OOP, SOLID, TDD(properly) , MVC, MVP
 |JabbyChat| Final Makers project to create a clone of whatsapp in mobile iOS and as a web client| XMPP, Swift, JavaScript, JQuery, eJabbard| [github](https://github.com/WhatsApe)|
 |Tumblr|A basic version of the popular blogging site |Ruby-on-Rails |[github](https://github.com/alwinruby/RailsProjects/tree/master/TumblrApp)|
 | Super Adventure | A simple role playing game with User Desktop interface| C# | [github](https://github.com/alwinruby/SuperAdventure) |
+| first payment rails | A simple web application which allows a user to buy pictures electronically | Ruby-on-Rails, Amazon Web Services | [github](https://github.com/alwinruby/learn_rails_payments) [Heroku](https://first-payment-rails-app.herokuapp.com/) |
 
 
 ## Education
+
+Massachusetts Institute of Technology (Remote learning) - Certificate for Introduction to Computer Science and Programming Using Python (2017)
+
 Makers Academy (June 2016 – September 2016)
 
 Oxford University - Certificate in Animal Behaviour (2015 - 2016)
